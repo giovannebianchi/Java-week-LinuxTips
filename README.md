@@ -1,18 +1,12 @@
-## Getting Started
+# About this project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Java Week is a full week of java immersion headed by [Kamila Santos](http://github.com/kamilahsantos/) and [LinuxTips](https://twitter.com/badtux_)
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Day 1: Presentation
+- Day 2: OOP (Object-Oriented Programming) fundamentals
+  <br /> <input type="checkbox" checked /> Inheritance
+  <br /> <input type="checkbox" checked /> Encapsulation
+  <br /> <input type="checkbox" checked /> Polymorphism
+  <br /> <input type="checkbox" checked /> Data abstraction
+- Day 3: API using Spring - Part 1
+- Day 3: API using Spring - Part 2
