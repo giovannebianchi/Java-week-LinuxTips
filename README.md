@@ -4,11 +4,13 @@
 
 - Day 1: Presentation
 - Day 2: OOP (Object-Oriented Programming) fundamentals
-  ```
+
+  ```text
   Inheritance
   Encapsulation
   Polymorphism
   Data abstraction
   ```
+
 - Day 3: API using Spring - Part 1
 - Day 3: API using Spring - Part 2
